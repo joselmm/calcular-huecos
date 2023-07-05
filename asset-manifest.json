@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/calcular-huecos/static/css/main.c76de836.css",
+    "main.js": "/calcular-huecos/static/js/main.e572e422.js",
+    "index.html": "/calcular-huecos/index.html",
+    "main.c76de836.css.map": "/calcular-huecos/static/css/main.c76de836.css.map",
+    "main.e572e422.js.map": "/calcular-huecos/static/js/main.e572e422.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c76de836.css",
+    "static/js/main.e572e422.js"
+  ]
+}
